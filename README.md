@@ -17,7 +17,7 @@
 </p>
 <p><img align="right" alt="coding" width="400" src="https://assets-global.website-files.com/60494527fea68422687bfcf1/606216c6c5f94a811744af9b_women_in_tech_orgs.jpeg"  /></p>
 
-- 🌱 I’m currently working **Selenium and SpringBoot**
+- 🌱 I’m currently working **SpringBoot**
 
 - 📝 I regularly write articles on [https://medium.com/@buseozbaytekin](https://medium.com/@buseozbaytekin)
 
