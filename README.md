@@ -27,6 +27,8 @@
 
 - ⚡ **I graduated from UpSchool and we are women who raising each other.**
 
+<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/buseozbaytekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buseozbaytekin" height="30" width="40" /></a>
@@ -35,5 +37,5 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buseozbaytekin&show_icons=true&locale=en&layout=compact" alt="buseozbaytekin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buseozbaytekin&show_icons=true&locale=en&layout=compact" alt="buseozbaytekin" /></p>
 
