@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Buse Özbaytekin</h1>
-<h3 align="center">An enthusiastic Java developer from Turkey</h3>
+<h3 align="center">An enthusiastic Software Quakity Assurance Specialist from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=buseozbaytekin&label=Profile%20views&color=ff8647&style=plastic" alt="buseozbaytekin" /> </p>
 
