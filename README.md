@@ -17,11 +17,11 @@
 </p>
 <p><img align="right" alt="coding" width="400" src="https://assets-global.website-files.com/60494527fea68422687bfcf1/606216c6c5f94a811744af9b_women_in_tech_orgs.jpeg"  /></p>
 
-- 🌱 I’m currently working **SpringBoot**
+- 🌱 I’m currently working **Selenium, Appium, Test Automation**
 
 - 📝 I regularly write articles on [https://medium.com/@buseozbaytekin](https://medium.com/@buseozbaytekin)
 
-- 💬 Ask me about **Object oriented programming, Core Java**
+- 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **buseozbaytekin@gmail.com**
 
